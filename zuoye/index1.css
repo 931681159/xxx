@@ -1,0 +1,12 @@
+p{
+    float: left;
+    color: pink;
+    font:900  100px/200px "simsun";
+}
+img{
+    width: 300px;
+    height: 500px;
+    float: left;
+    display: block;
+    border-radius: 50%;
+}
